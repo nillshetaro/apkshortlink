@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000
+https://tvhostbd21.technohaat.com:443/kidscreation/live/playlist.m3u8
